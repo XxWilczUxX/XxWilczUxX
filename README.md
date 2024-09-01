@@ -54,6 +54,9 @@
 
 ###
 
-<img src="https://github.com/XxWilczUxX/XxWilczUxX/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=XxWilczUxX&theme=transparent" alt="Streak" />
+  <img src="https://github.com/XxWilczUxX/XxWilczUxX/blob/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
