@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Wiktor Radzikowski and i am from Poland<br><br>- 🔭 I’m a student in technical high school<br>- 📚 I'm currently learning everything regarding my current projects<br>- ⚡ In my free time I still code</p>
+<p align="left">I'm Wiktor Radzikowski and i am from Poland<br><br>- 🔭 I’m a student in technical high school<br>- 📚 I'm currently learning everything regarding my current projects and anything that interests me<br>- ⚡ In my free time I work on my projects and play Factorio</p>
 
 ###
 
